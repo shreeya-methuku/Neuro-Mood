@@ -59,7 +59,7 @@ This project requires several key libraries, primarily **OpenCV** and **Keras/Te
    **You must update these paths** if your files are located elsewhere, or place the files in the directory specified.  
 2. Execute the Script:  
    Run the primary script from your terminal:  
-   python mainnn.py
+   python main.py
 
 3. **Operation:**  
    * Your webcam will activate, and a new window titled **"Emotion Detector"** will appear.  
