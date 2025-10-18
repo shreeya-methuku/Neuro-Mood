@@ -1,4 +1,4 @@
-# **Real-Time Emotion Detection using CNN and OpenCV**
+# ** NeuroMood, Real-Time Emotion Detection using CNN and OpenCV**
 
 This project implements a deep learning solution for real-time human emotion classification from a live webcam feed. It combines the power of **Convolutional Neural Networks (CNNs)** for image feature extraction and **OpenCV** for camera handling and face detection.
 
